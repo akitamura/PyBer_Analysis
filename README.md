@@ -1,6 +1,8 @@
 # PyBer_Analysis
 
 The purpose of this report is to create a summary of the key metric of total fares for ride sharing data by city type. The data given was in two different datasets with one containing individual ride information and the other containing driver information. The datasets were combined to observe total fares over time for each of the three city times: Rural, Suburban, and Urban. The attached figure summarizes the findings.
+
+
 ![Total Fare by City Type](analysis/Challenge.png)
 
 
