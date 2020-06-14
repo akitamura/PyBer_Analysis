@@ -5,7 +5,7 @@ The purpose of this report is to create a summary of the key metric of total far
 
 ![Overview Summary Chart](analysis/Challenge%20Figure%202.PNG)
 
-![Total Fare by City Type](analysis/Challenge.png)
+![Total Fare by City Type](analysis/Challenge.png) (note: for some reason the bottom portion of my graph is too large and is getting cut off when outputted to screen)
 
 ##### Findings
 From the findings it can be seen that Urban Cities have the highest total fares over time, ranging approximately from $2000 to $2500 per day. This is followed by Suburban Cities with the second highest total fares over time, typically ranging from $750 to $1500 per day, and Rural Cities with the lowest total fares over time, ranging about $100 to $500 per day. When observing summary statistics, though Urban cities had the highest total fare per day, it also had the largest standard devation or spread. This is the opposite for Rural cities as through they had the lowest total fare per day, the also had a lower spread. From the summary chart, it can also be seen that the average fare per driver is higher in Rural areas and lower in Urban cities. This may indicate that Rural areas have a lower frequency of usage while Urban areas have a higher frequency of usage.
