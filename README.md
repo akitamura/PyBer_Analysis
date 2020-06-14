@@ -2,6 +2,8 @@
 
 The purpose of this report is to create a summary of the key metric of total fares for ride sharing data by city type. The data given was in two different datasets with one containing individual ride information and the other containing driver information. The datasets were combined to observe total fares over time for each of the three city times: Rural, Suburban, and Urban. The attached figure summarizes the findings.
 ![Total Fare by City Type](analysis/Challenge.png)
+
+
 From the findings it can be seen that Urban Cities have the highest total fares over time, ranging approximately from $2000 to $2500 per day. This is followed by Suburban Cities with the second highest total fares over time, typically ranging from $750 to $1500 per day, and Rural Cities with the lowest total fares over time, ranging about $100 to $500 per day.
 
 
